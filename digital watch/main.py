@@ -2,7 +2,7 @@ from tkinter import *
 import tkinter
 from datetime import datetime
 import pyglet 
-pyglet.font.add_file("digital-7.ttf")
+pyglet.font.add_file("fontes/digital-7.ttf")
 
 
 
